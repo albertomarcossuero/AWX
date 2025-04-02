@@ -1,0 +1,3 @@
+[submodule "AWX-submodule"]
+	path = AWX-submodule
+	url = https://github.com/albertomarcossuero/AWX-submodule/
